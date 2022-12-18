@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj": {}
+    "C:\\Users\\FPTSHOP-ASUS\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj": {}
   },
   "projects": {
-    "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj": {
+    "C:\\Users\\FPTSHOP-ASUS\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj",
+        "projectUniqueName": "C:\\Users\\FPTSHOP-ASUS\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj",
         "projectName": "ASM1670",
-        "projectPath": "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\obj\\",
+        "projectPath": "C:\\Users\\FPTSHOP-ASUS\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj",
+        "packagesPath": "C:\\Users\\FPTSHOP-ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FPTSHOP-ASUS\\Source\\Repos\\aspnew1670\\ASM1670\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FPTSHOP-ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
