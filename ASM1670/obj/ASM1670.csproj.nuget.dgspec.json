@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj": {}
+    "C:\\Users\\admin\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj": {}
   },
   "projects": {
-    "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj": {
+    "C:\\Users\\admin\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj",
         "projectName": "ASM1670",
-        "projectPath": "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\ASM1670.csproj",
+        "projectPath": "C:\\Users\\admin\\Source\\Repos\\aspnew1670\\ASM1670\\ASM1670.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\code 1670 thay manh\\buoi 1\\ASM1670\\ASM1670\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Source\\Repos\\aspnew1670\\ASM1670\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,13 +52,23 @@
               "target": "Package",
               "version": "[6.0.9, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[6.0.9, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
             }
           },
           "imports": [
